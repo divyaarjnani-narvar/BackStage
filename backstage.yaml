@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-backstage
-  description: Test Backstage
+  name: Bala-test-backstage
+  description: Bala-Test Backstage
   tags:
     - Java
     - node
